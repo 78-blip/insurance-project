@@ -59,4 +59,4 @@ NAIVE BAYES
 The Naïve Bayes classifier is a supervised machine learning algorithm, which is used for classification tasks, like text classification. It is also part of a family of generative learning algorithms, meaning that it seeks to model the distribution of inputs of a given class or category.
 
 
-YOU CAN REFER TO THIS LINK FOR VIDEO SOLUTION AND EXPLANANTION BY ME:
+YOU CAN REFER TO THIS LINK FOR VIDEO SOLUTION AND EXPLANANTION BY ME:https://drive.google.com/file/d/1hDj4FE5SzoGBKiWFUn10G57ljPEqr5-c/view?usp=sharing
