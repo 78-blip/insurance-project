@@ -1,0 +1,68 @@
+I HAVE USED VARIOUS PLOTTING CHARTS IN ORDER TO SHOWCASE MY DATASET AND MAKE RELATIONSHIP AMONG FEATURES CLEARLY VISIBLE:
+
+CHART 1 RESULTS
+from the above chart ,i found the following:
+
+1.more than 30,000 people have response 0 and very few approx 5000 has 1 response
+
+2.dependent variable is in favour of 0 response.
+
+3.dependent variable is more inclined towards 0 response.
+
+4.there is huge difference in two responses.
+
+CHART 2 RESULTS
+from the chart,i found the following insights:
+
+1.the most frequent age of people using vehicles is 25-50 ,rest all are outliers.
+
+2.previously insured is categorical column.
+
+3.annual premium has good frequency uptill 20,000 ,after that all others are outliers.
+
+4.vintage has 80-230 as frequently occuring,rest all are outliers.
+
+CHART 3 RESULTS
+
+I found the following insights from the above chart as follows:
+
+1.response of potential customers is basically not biased towards age ,means yes or no tpo buy policy has nothing to do with the age.
+
+having driving license or not having driving license is basically not having much impact on response for buying insurance policy.
+3.region code also have not much to do with buying the insurance policy.
+
+4.previously insured is also not impacting the response of customer.
+
+when the premium amount is more ,customer are more prone for response 0.
+
+
+CHART 4 RESULTS
+
+I found the folowing insights from the chart which are as follows:
+
+1.mean of annual premium with respect to decision has little change
+
+2.mean of annual premium is approx 30,000 for response 0
+
+3.mean of annual premium is approx 32,000 for response 1
+
+CHART 5 RESULTS
+from the chart,i found the following insights:
+
+1.the most frequent age of people using vehicles is 25-50 ,rest all are outliers.
+
+2.previously insured is categorical column.
+
+3.annual premium has good frequency uptill 20,000 ,after that all others are outliers.
+
+4.vintage has 80-230 as frequently occuring,rest all are outliers.
+
+CHART 6 RESULTS
+
+the following insights have been found from the chart,which are as follows:
+
+1.people having response 0 have mean age as 38 approx.
+
+2.people having response 1 have mean age as 43 approx.
+
+3.there is clear dependency of response on driver's age.
