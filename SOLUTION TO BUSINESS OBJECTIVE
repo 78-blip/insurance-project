@@ -1,0 +1,13 @@
+HEREBY MY SUGGESTIONS FOR CLIENT TO ACHIEVE BUSINESS OBJECTIVE:
+
+1.as we can see ,response of a customer depends upon various factors which includes 'id', 'Gender', 'Age', 'Driving_License', 'Region_Code', 'Previously_Insured', 'Vehicle_Age', 'Vehicle_Damage', 'Annual_Premium', 'Policy_Sales_Channel', 'Vintage'
+
+2.by looking at some parameter we can predict our response of customer ,for example if vehicle's age is quite much and premium amount is less,customer is willing to buy the insurance.
+
+3.somehow we can predict our response on the basis of gender and age .
+
+4.most of the time response of our customer is 0.
+
+5.somehow most of the prediction is in favour of 0.
+
+6.i will suggest the client to keep focus on certain customer understanding certain parameters which have more probability for buying insurance.
