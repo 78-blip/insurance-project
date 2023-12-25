@@ -1,0 +1,11 @@
+The conclusion of our project here is:
+
+1.age of the customer has not much to do with response of customer,soit is not inclined to any particular response.
+
+2.annual premium to be paid has good impact on response of the customer,higher the premium,more likely is customer willing to say no.
+
+3.whether the vehicle is already insured or not is also affecting our response.
+
+4.we have to keep our focus on certain customers only whose variables are somehow showing the response yes according to prediction.
+
+5.we have to filter out the parameters in order to have a glimpse of our response.
